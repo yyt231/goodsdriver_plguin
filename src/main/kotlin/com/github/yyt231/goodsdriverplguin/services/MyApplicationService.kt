@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yyt231.goodsdriverplguin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yyt231.goodsdriverplguin.MyBundle
 
 class MyApplicationService {
 
